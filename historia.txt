@@ -3,3 +3,5 @@ Esta es un archivo de prueba para empezar a usar
 git y github
 
 Regreso a la primera versión del archivo usando git checkout
+
+Actualizando nuevamente el archivo para continuar trabajando

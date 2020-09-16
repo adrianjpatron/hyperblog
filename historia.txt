@@ -5,3 +5,4 @@ git y github
 Regreso a la primera versión del archivo usando git checkout
 
 Actualizando nuevamente el archivo para continuar trabajando
+Continuamos agregando más contenido el 16 de septiembre de 2020
